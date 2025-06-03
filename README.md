@@ -1,4 +1,4 @@
 ## TODO
 
 [] Create a Makefile to install all dependecies
-[] Add the rest
+[] Add the rest2
